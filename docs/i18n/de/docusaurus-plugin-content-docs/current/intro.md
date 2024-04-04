@@ -1,26 +1,26 @@
 ---
-title: 💻 Introduction
-description: Continue is the open-source autopilot for software development
-keywords: [introduction, intro, continue, autopilot, chatgpt]
+title: 💻 Einführung
+description: Continue ist der Open-Source-Autopilot für die Softwareentwicklung
+keywords: [Einführung, Intro, Continue, Autopilot, ChatGPT]
 ---
 
-# 💻 Introduction
+# 💻 Einführung
 
 ![continue-cover-logo](/img/continue-cover-logo.png)
 
-**Continue is an open-source autopilot for [VS Code](https://marketplace.visualstudio.com/items?itemName=Continue.continue) and [JetBrains](https://plugins.jetbrains.com/plugin/22707-continue-extension)—the easiest way to code with any LLM**
+**Continue ist ein Open-Source-Autopilot für [VS Code](https://marketplace.visualstudio.com/items?itemName=Continue.continue) und [JetBrains](https://plugins.jetbrains.com/plugin/22707-continue-extension)—der einfachste Weg, mit jedem LLM zu coden**
 
-Many developers have begun to use ChatGPT while coding; however, the experience is painful because of how much copying, pasting, and editing is required to provide the context and incorporate the generated answers into your codebase. Continue eliminates this pain by enabling LLMs to act natively in your IDE as you complete your workflows.
+Viele Entwickler haben begonnen, ChatGPT beim programmieren zu verwenden; jedoch ist die Erfahrung schmerzhaft, da viel Kopieren, Einfügen und Bearbeiten erforderlich ist, um den Kontext bereitzustellen und die generierten Antworten in den Code zu integrieren. Continue beseitigt diesen Schmerz, indem es LLMs ermöglicht, in der IDE nativ zu handeln, während man Workflows abschließen.
 
-Some examples of what you can achieve are:
+Einige Beispiele dafür, was du erreichen kannst, sind:
 
-- Use cmd/ctrl + I to generate boilerplate code from natural language
-- Use our local tab-autocomplete to get inline suggestions and write boilerplate code quickly
-- Highlight code, describe how to refactor it, and have changes streamed into your editor
-- Ask high-level questions about your codebase, with Continue automatically finding relevant files
-- Quickly generate unit tests for any function or class
-- Ask a quick question to get immediate answers without leaving your editor
-- Have your current changes reviewed for mistakes that the compiler can't catch
-- Type '@' to reference dozens of different sources while communicating with the LLM
+- Verwende cmd/strg + I, um boilerplate-Code aus natürlicher Sprache zu generieren
+- Verwende unsere lokale Tab-Autovervollständigung, um Inline-Vorschläge zu erhalten und schnell boilerplate-Code zu schreiben
+- Markiere Code, beschreibe, wie er umgestaltet werden soll, und lass Änderungen in den Editor streamen
+- Stell anspruchsvolle Fragen zur Codebasis, wobei Continue automatisch relevante Dateien findet
+- Generiere schnell Unit-Tests für jede Funktion oder Klasse
+- Stelle eine schnelle Frage, um sofortige Antworten zu erhalten, ohne den Editor zu verlassen
+- Lass aktuellen Änderungen auf Fehler überprüfen, die der Compiler nicht erkennen kann
+- Gib '@' ein, um auf Dutzende verschiedener Quellen Bezug zu nehmen, während du mit dem LLM kommunizieren
 
-Continue lets you do all of this with any LLM, whether open-source, commercial, local, or remote. And we provide numerous points of configuration so that you can customize the extension to fit into your existing workflows.
+Mit Continue kannst du all dies mit jedem LLM tun, ob Open Source, kommerziell, lokal oder remote. Und wir bieten zahlreiche Konfigurationsmöglichkeiten, damit du die Erweiterung an deine bestehenden Workflows anpassen kannst.
